@@ -1,0 +1,18 @@
+html{
+    background-color: skyblue;
+    color: white;
+    font-family: Meera;
+    font-size: 3rem;
+}
+body{
+    text-align: center;
+}
+h1{
+color: black
+}
+
+img{
+    width: 15%;
+    height: 10%;
+    object-fit: fill;
+}
